@@ -17,6 +17,5 @@
 |---|---|---|
 | [**PLC Trend Visualizer**](https://github.com/DarkoKovach/plc-trend-visualizer) | Real-time charts at 60fps with 20Hz data streams: uPlot canvas rendering, RxJS backpressure, ring buffers, `shallowRef`, framework-agnostic core, Vitest + Playwright, Histoire component catalog | [Live demo](https://darkokovach.github.io/plc-trend-visualizer/) |
 | [**Live Sports Matches Dashboard**](https://github.com/DarkoKovach/live-matches-dashboard) | Polling feed with retry/backoff and race-condition guards, virtual scrolling, enter/leave animations, Pinia, i18n, analytics layer | [Live demo](https://darkokovach.github.io/live-matches-dashboard/) |
-| [**Community Solar Finder**](https://github.com/DarkoKovach/community-solar-finder) | Vue 3 SPA with Pinia, Vue Router, i18n and a unit + integration test suite | [Live demo](https://darkokovach.github.io/community-solar-finder/) |
 
 📫 [LinkedIn](https://www.linkedin.com/in/darko-kovach/) · darko.kovach@gmail.com
